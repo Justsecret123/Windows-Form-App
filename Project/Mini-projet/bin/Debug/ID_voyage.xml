@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <voyage>
+    <ID_VOYAGE>1</ID_VOYAGE>
+    <ID_GARE>1</ID_GARE>
+    <GAR_ID_GARE>4</GAR_ID_GARE>
+    <ID_TRAIN>1</ID_TRAIN>
+    <DATE>2019-01-05T00:00:00+01:00</DATE>
+    <DUREE>PT1H5M</DUREE>
+    <PRIX_VOYAGE>35</PRIX_VOYAGE>
+  </voyage>
+  <voyage>
+    <ID_VOYAGE>2</ID_VOYAGE>
+    <ID_GARE>1</ID_GARE>
+    <GAR_ID_GARE>4</GAR_ID_GARE>
+    <ID_TRAIN>2</ID_TRAIN>
+    <DATE>2019-01-05T06:40:00+01:00</DATE>
+    <DUREE>PT1H7M</DUREE>
+    <PRIX_VOYAGE>35</PRIX_VOYAGE>
+  </voyage>
+  <voyage>
+    <ID_VOYAGE>3</ID_VOYAGE>
+    <ID_GARE>1</ID_GARE>
+    <GAR_ID_GARE>4</GAR_ID_GARE>
+    <ID_TRAIN>1</ID_TRAIN>
+    <DATE>2019-01-05T07:58:00+01:00</DATE>
+    <DUREE>PT1H2M</DUREE>
+    <PRIX_VOYAGE>35</PRIX_VOYAGE>
+  </voyage>
+  <voyage>
+    <ID_VOYAGE>4</ID_VOYAGE>
+    <ID_GARE>1</ID_GARE>
+    <GAR_ID_GARE>4</GAR_ID_GARE>
+    <ID_TRAIN>2</ID_TRAIN>
+    <DATE>2019-01-05T08:10:00+01:00</DATE>
+    <DUREE>PT1H11M</DUREE>
+    <PRIX_VOYAGE>35</PRIX_VOYAGE>
+  </voyage>
+</NewDataSet>
