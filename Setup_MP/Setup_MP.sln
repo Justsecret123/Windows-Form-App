@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_MP", "Setup_MP\Setup_MP.vdproj", "{2CDC8543-41D8-4906-A6F1-B7BBA040482C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CDC8543-41D8-4906-A6F1-B7BBA040482C}.Debug|Default.ActiveCfg = Debug
+		{2CDC8543-41D8-4906-A6F1-B7BBA040482C}.Debug|Default.Build.0 = Debug
+		{2CDC8543-41D8-4906-A6F1-B7BBA040482C}.Release|Default.ActiveCfg = Release
+		{2CDC8543-41D8-4906-A6F1-B7BBA040482C}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B495331A-9F0E-4B98-AE04-278CC0234D72}
+	EndGlobalSection
+EndGlobal
