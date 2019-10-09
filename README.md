@@ -23,8 +23,8 @@ To properly use it, you should first create a local MySQL schema which title wil
 but some features would be restricted. After installing, run the MySQL schema building script located [here](https://github.com/Justsecret123/Windows-Form-App/blob/master/Project/Mini-projet/bin/Debug/Projet_db.sql).
 
 ## Tools
--Languages : C#, SQL; 
--IDE: Microsoft Visual Studio 2017; 
--Database server: MySQL;
--Frameworks: MetroUIFramework.
+- Languages : C#, SQL; 
+- IDE: Microsoft Visual Studio 2017; 
+- Database server: MySQL;
+- Frameworks: MetroUIFramework.
 
