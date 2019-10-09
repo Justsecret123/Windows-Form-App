@@ -2,10 +2,10 @@
 This repository contains a Windows Form App made for a school project. 
 
 ## Screenshots 
-![alt_text]https://github.com/Justsecret123/Windows-Form-App/blob/master/Accueil%20Admin.PNG
-![alt_text]https://github.com/Justsecret123/Windows-Form-App/blob/master/Accueil%20Admin_2.PNG
-![alt_text]https://github.com/Justsecret123/Windows-Form-App/blob/master/Accueil_client.PNG
-![alt_text]
+![Admin side (home):](Accueil Admin.PNG)
+![Admin side (after logging in):](Accueil Admin_2.PNG)
+![Client side (home):](Accueil_admin_client.PNG)
+![Client side (after logging in):](Accueil_client.PNG)
 
 
 ## About the project
