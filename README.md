@@ -4,6 +4,8 @@ This repository contains a Windows Form App made for a school project.
 ## Screenshots 
 ![Admin side (home):](Accueil_Admin.PNG)
 ![Client side (home):](Accueil_admin_client.PNG)
+> **Discover what happens next by downloading the software ! ** :blush:
+
 
 
 ## About the project
