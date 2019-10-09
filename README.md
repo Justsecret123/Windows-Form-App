@@ -1,5 +1,5 @@
 ## Windows-Form-App
-This repository contains a Windows Form App made for a school project. 
+This repository contains a Windows Form App priorly designed for a school project. 
 
 ## Screenshots 
 ![Admin side (home):](Accueil_Admin.PNG)
@@ -11,7 +11,7 @@ This repository contains a Windows Form App made for a school project.
 
 
 ## About the project
-The software language is French. It is mainly made in C#, though the links with the database is made with pure SQL queries. 
+The software language is French. It is mainly made in C#, though the links with the database is made with pure SQL queries. It was first for a school project, but I have deciced to upload it here to help some developpers not to do the exact same application, but for academic or project purposes by giving some patterns. Feel free to contribute, improve or criticize.
 
 ## Features
 The project includes : 
@@ -23,5 +23,8 @@ To properly use it, you should first create a local MySQL schema which title wil
 but some features would be restricted. After installing, run the MySQL schema building script located [here](https://github.com/Justsecret123/Windows-Form-App/blob/master/Project/Mini-projet/bin/Debug/Projet_db.sql).
 
 ## Tools
-Programming language : C#, SQL; IDE: Microsoft Visual Studio; Frameworks: MetroUIFramework.
+-Languages : C#, SQL; 
+-IDE: Microsoft Visual Studio 2017; 
+-Database server: MySQL;
+-Frameworks: MetroUIFramework.
 
