@@ -7,6 +7,7 @@ This repository contains a Windows Form App priorly designed for a school projec
 ![Client side (home):](Accueil_admin_client.PNG)
 ![Client side (home):](Accueil_client.PNG)
 > **Discover the other features by downloading the software ! ** :blush:
+> **View all of README to fully discover the project. It is in fact short, but quite explicit ** :blush:
 
 
 
