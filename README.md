@@ -3,9 +3,7 @@ This repository contains a Windows Form App made for a school project.
 
 ## Screenshots 
 ![Admin side (home):](Accueil_Admin.PNG)
-![Admin side (after logging in):](Accueil_Admin_2.PNG)
 ![Client side (home):](Accueil_admin_client.PNG)
-![Client side (after logging in):](Accueil_client.PNG)
 
 
 ## About the project
