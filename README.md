@@ -20,7 +20,7 @@ The project includes :
 
 ## Pre-requisites & How to use :
 To properly use it, you should first create a local MySQL schema which title will be "projet"; unless you do not desire a database connection,
-but some features would be restricted. After installing, run the MySQL schema buildingscript located [here](https://github.com/Justsecret123/Windows-Form-App/blob/master/Project/Mini-projet/bin/Debug/Projet_db.sql).
+but some features would be restricted. After installing, run the MySQL schema building script located [here](https://github.com/Justsecret123/Windows-Form-App/blob/master/Project/Mini-projet/bin/Debug/Projet_db.sql).
 
 ## Tools
 Programming language : C#, SQL; IDE: Microsoft Visual Studio; Frameworks: MetroUIFramework.
