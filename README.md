@@ -1,5 +1,5 @@
 ## Windows-Form-App
-This repository contains a Windows Form App priorly designed for a school project. 
+This repository contains a Windows Form App priorly made in order to complete a school project assignment.
 
 ## Screenshots 
 ![Admin side (home):](Accueil_Admin.PNG)
